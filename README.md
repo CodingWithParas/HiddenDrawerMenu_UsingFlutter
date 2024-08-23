@@ -7,7 +7,8 @@ This is the UI of the Hidden drawer menu.
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,,androidstudio)](https://skillicons.dev)
 
 ### ScreenShots
-![WhatsApp Image 2024-08-23 at 11 00 22 PM](https://github.com/user-attachments/assets/46f6ca14-7321-4ea3-a447-b5feef7c99c2)
+<img src="![screenshot](https://github.com/user-attachments/assets/46f6ca14-7321-4ea3-a447-b5feef7c99c2)
+" width="300" />
 
 
 ### 🚀 About Me :
